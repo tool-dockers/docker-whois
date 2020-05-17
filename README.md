@@ -41,7 +41,7 @@ This package provides a commandline client for the **WHOIS (RFC 3912)** protocol
 To search for an object in a RFC 3912 database:
 
 ```console
-docker run --name whois --rm tool-dockers/whois:latest iana.org
+docker run --name whois --rm tooldockers/whois:latest iana.org
 ```
 
 # License
